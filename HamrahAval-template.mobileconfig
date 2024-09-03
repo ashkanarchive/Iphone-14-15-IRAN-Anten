@@ -12,7 +12,12 @@
 		<key>IsNewProfile</key>
 		<true/>
 		<key>PayloadType</key>
-		<string></string>
+		<key>PayloadType</key>
+		<string>com.apple.cellular</string>
+		<key>PayloadUUID</key>
+		<string>16b75605407a44608ceab9ee96280629</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
 		<key>PlatformFilters</key>
 		<array>
 			<string>ios</string>
